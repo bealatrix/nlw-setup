@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Habits </h1>
 
 <p align="center">
 Projeto Habits do evento NLW Setup, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
